@@ -45,7 +45,11 @@ const App = () => {
                         </div>
                     )
             }
+            <footer>
+              <p>&copy; 2023 Movie App</p>
+            </footer>
         </div>
+
     );
 }
 export default App;
